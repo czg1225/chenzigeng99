@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an incoming Ph.D. student at [Learning and Vision (LV) LAB](http://www.lv-nus.org/) @ National University of Singapore, advised by professor [Xinchao Wang](https://scholar.google.com/citations?hl=zh-CN&user=w69Buq0AAAAJ).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Efficient AI:** Model Compression, Model Acceleration, Distributed Computing
+- **Low-level Vision:** Computational Photography, Super-resolution
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2024]** :tada: One first-auther paper about distributed acceleration of diffusion model is accepted to NeurIPS 2024.
+- **[Sep. 2024]** :tada: One first-auther paper about SAM compression is accepted to NeurIPS 2024.
+- **[April. 2024]** :tada: One first-auther paper about learnable ISP is accepted to IJCAI 2024.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
