@@ -6,17 +6,17 @@ main:
     conference: The Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2406.06911
     code: https://github.com/czg1225/AsyncDiff
+    page: https://czg1225.github.io/asyncdiff_page/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3lr4pcLuOiYJ:scholar.google.com/&output=citation&scisdr=ClE57f0iEPXT7KVkW4k:AFWwaeYAAAAAZwtiQ4kET-2wCMsYcQJVs95mjxI&scisig=AFWwaeYAAAAAZwtiQ_brUQd51aaq1aMYOQ0bPFA&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/teaser_async.png
     # notes: Poster
 
   - title: "SlimSAM: 0.1% Data Makes Segment Anything Slim"
     authors: <strong>Zigeng Chen</strong>, Gongfan Fang, Xinyin Ma, Xinchao Wang*
     conference_short: NeurIPS
     conference: The Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://arxiv.org/pdf/2312.05284
+    code: https://github.com/czg1225/SlimSAM
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:DZj8boyLD60J:scholar.google.com/&output=citation&scisdr=ClE57f0iEPXT7KVl3ss:AFWwaeYAAAAAZwtjxsshvwHx8uicTPZNe-VGDWM&scisig=AFWwaeYAAAAAZwtjxp2fXbkeWCXOr5w6uQSQCoE&scisf=4&ct=citation&cd=-1&hl=zh-CN
     # notes: Poster
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_slimsam.png
