@@ -1,8 +1,7 @@
 main:
 
   - title: "AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising"
-    authors: >-
-<strong><u>Zigeng Chen</u></strong>, Xinyin Ma, Gongfan Fang, Zhenxiong Tan, Xinchao Wang*
+    authors: <strong>Zigeng Chen</strong>, Xinyin Ma, Gongfan Fang, Zhenxiong Tan, Xinchao Wang*
     conference_short: NeurIPS
     conference: The Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS 2024)</strong>.
     pdf: https://arxiv.org/pdf/2406.06911
