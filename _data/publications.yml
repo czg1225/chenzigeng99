@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: "AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising"
+    authors: <strong>Zigeng Chen</strong>, Xinyin Ma, Gongfan Fang, Zhenxiong Tan, Xinchao Wang* 
+    conference_short: NeurIPS
+    conference: The Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2406.06911
+    code: https://github.com/czg1225/AsyncDiff
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3lr4pcLuOiYJ:scholar.google.com/&output=citation&scisdr=ClE57f0iEPXT7KVkW4k:AFWwaeYAAAAAZwtiQ4kET-2wCMsYcQJVs95mjxI&scisig=AFWwaeYAAAAAZwtiQ_brUQd51aaq1aMYOQ0bPFA&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    # notes: Poster
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  - title: "SlimSAM: 0.1% Data Makes Segment Anything Slim"
+    authors: <strong>Zigeng Chen</strong>, Gongfan Fang, Xinyin Ma, Xinchao Wang*
+    conference_short: NeurIPS
+    conference: The Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    # notes: Poster
     image: ./assets/img/teaser_example.png
