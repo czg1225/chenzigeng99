@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Ph.D. student at [Learning and Vision (LV) LAB](http://www.lv-nus.org/) @ National University of Singapore, advised by professor [Xinchao Wang](https://scholar.google.com/citations?hl=zh-CN&user=w69Buq0AAAAJ). Before joining the LV Lab, I earned my Bachelor's degree in Communication Engineering from Soochow University and my Master's degree in Electrical Engineering from the National University of Singapore. My current research interests focus on Efficient Generative AI.
+I am an incoming Ph.D. student at [xML LAB](https://sites.google.com/view/xml-nus) @ National University of Singapore, advised by professor [Xinchao Wang](https://scholar.google.com/citations?hl=zh-CN&user=w69Buq0AAAAJ). Before joining the LV Lab, I earned my Bachelor's degree in Communication Engineering from Soochow University and my Master's degree in Electrical Engineering from the National University of Singapore. My current research interests focus on Efficient Generative AI.
 
 ## Research Interests
 
@@ -19,4 +19,4 @@ I am an incoming Ph.D. student at [Learning and Vision (LV) LAB](http://www.lv-n
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
