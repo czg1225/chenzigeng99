@@ -1,5 +1,12 @@
 main:
-
+  - title: "VeriThinker: Learning to Verify Makes Reasoning Model Efficient"
+    authors: <u>Zigeng Chen</u>, Xinyin Ma, Gongfan Fang, Ruonan Yu, Xinchao Wang*
+    conference_short: Arixv
+    conference: <strong>(Preprint 2025)</strong>.
+    pdf: https://arxiv.org/pdf/2505.17941
+    code: https://github.com/czg1225/VeriThinker
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hRxTDB2wHWsJ:scholar.google.com/&output=citation&scisdr=CgLMcXXYEKruzYUCOJo:AAZF9b8AAAAAaDgEIJrLsKVJNL5Pr-uqoGLTGqA&scisig=AAZF9b8AAAAAaDgEIL0ZRi-yflQQVJ_fCblMgIU&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/teaser_verithinker.png
 
   - title: "Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient"
     authors: <u>Zigeng Chen</u>, Xinyin Ma, Gongfan Fang, Xinchao Wang*
