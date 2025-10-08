@@ -8,6 +8,7 @@
   <li><a href="https://icml.cc/"><autocolor>The International Conference on Machine Learning (ICML)</autocolor></a></li>
   <li><a href="https://neurips.cc/"><autocolor>The Neural Information Processing Systems (NeurIPS)</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>The International Conference on Learning Representations (ICLR)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
