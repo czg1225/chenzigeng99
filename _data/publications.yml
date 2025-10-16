@@ -1,4 +1,12 @@
 main:
+  - title: "dParallel: Learnable Parallel Decoding for dLLMs"
+    authors: <u>Zigeng Chen</u>, Gongfan Fang, Xinyin Ma, Ruonan Yu, Xinchao Wang*
+    conference_short: Arxiv
+    conference: Preprint 2025
+    pdf: https://arxiv.org/abs/2509.26488
+    code: https://github.com/czg1225/dParallel
+    image: ./assets/img/teaser_dparallel.png
+
   - title: "VeriThinker: Learning to Verify Makes Reasoning Model Efficient"
     authors: <u>Zigeng Chen</u>, Xinyin Ma, Gongfan Fang, Ruonan Yu, Xinchao Wang*
     conference_short: NeurIPS
