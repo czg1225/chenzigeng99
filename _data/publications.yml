@@ -5,7 +5,6 @@ main:
     conference: The Thirty-Ninth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS 2025)</strong>.
     pdf: https://arxiv.org/pdf/2505.17941
     code: https://github.com/czg1225/VeriThinker
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hRxTDB2wHWsJ:scholar.google.com/&output=citation&scisdr=CgLMcXXYEKruzYUCOJo:AAZF9b8AAAAAaDgEIJrLsKVJNL5Pr-uqoGLTGqA&scisig=AAZF9b8AAAAAaDgEIL0ZRi-yflQQVJ_fCblMgIU&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/teaser_verithinker.png
 
   - title: "Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient"
@@ -15,7 +14,6 @@ main:
     pdf: https://arxiv.org/pdf/2411.17787
     code: https://github.com/czg1225/CoDe
     page: https://czg1225.github.io/CoDe_page/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:9eUJuhqs0WwJ:scholar.google.com/&output=citation&scisdr=ClE57f0TEKruwm99vJQ:AFWwaeYAAAAAZ9J7pJRRryQGJmg10AgUZA9i-jg&scisig=AFWwaeYAAAAAZ9J7pNi-OYQEE3fuzRmuPePRnUI&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/teaser_code.png
     # notes: Poster
 
@@ -26,7 +24,6 @@ main:
     pdf: https://arxiv.org/pdf/2406.06911
     code: https://github.com/czg1225/AsyncDiff
     page: https://czg1225.github.io/asyncdiff_page/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3lr4pcLuOiYJ:scholar.google.com/&output=citation&scisdr=ClE57f0iEPXT7KVkW4k:AFWwaeYAAAAAZwtiQ4kET-2wCMsYcQJVs95mjxI&scisig=AFWwaeYAAAAAZwtiQ_brUQd51aaq1aMYOQ0bPFA&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/teaser_async.png
     # notes: Poster
 
@@ -36,8 +33,6 @@ main:
     conference: The Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS 2024)</strong>.
     pdf: https://arxiv.org/pdf/2312.05284
     code: https://github.com/czg1225/SlimSAM
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:DZj8boyLD60J:scholar.google.com/&output=citation&scisdr=ClE57f0iEPXT7KVl3ss:AFWwaeYAAAAAZwtjxsshvwHx8uicTPZNe-VGDWM&scisig=AFWwaeYAAAAAZwtjxp2fXbkeWCXOr5w6uQSQCoE&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    # notes: Poster
     image: ./assets/img/teaser_slimsam.png
 
   - title: "MetaISP: Efficient RAW-to-sRGB Mappings with Merely 1M Parameters"
@@ -45,6 +40,4 @@ main:
     conference_short: IJCAI
     conference: Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence <strong>(IJCAI-24)</strong>.
     pdf: https://www.ijcai.org/proceedings/2024/0076.pdf
-    bibtex: https://www.ijcai.org/proceedings/2024/bibtex/76
-    # notes: Poster
     image: ./assets/img/teaser_metaisp.png
