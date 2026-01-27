@@ -1,8 +1,8 @@
 main:
   - title: "dParallel: Learnable Parallel Decoding for dLLMs"
     authors: <u>Zigeng Chen</u>, Gongfan Fang, Xinyin Ma, Ruonan Yu, Xinchao Wang*
-    conference_short: Arxiv
-    conference: Preprint 2025
+    conference_short: ICLR
+    conference: The Fourteenth International Conference on Learning Representations <strong>(ICLR 2026)</strong>.
     pdf: https://arxiv.org/abs/2509.26488
     code: https://github.com/czg1225/dParallel
     image: ./assets/img/teaser_dparallel.png
