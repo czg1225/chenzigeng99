@@ -1,4 +1,12 @@
 main:
+  - title: "DMax: Aggressive Parallel Decoding for dLLMs"
+    authors: <u>Zigeng Chen</u>, Gongfan Fang, Xinyin Ma, Ruonan Yu, Xinchao Wang*
+    conference_short: Arxiv
+    conference: Preprint 2026.
+    pdf: https://arxiv.org/pdf/2604.08302
+    code: https://github.com/czg1225/DMax
+    image: ./assets/img/teaser_dmax.png
+
   - title: "dParallel: Learnable Parallel Decoding for dLLMs"
     authors: <u>Zigeng Chen</u>, Gongfan Fang, Xinyin Ma, Ruonan Yu, Xinchao Wang*
     conference_short: ICLR
